@@ -42,15 +42,15 @@ export const taskList = [
         is_completed : false
     },
     {
-        id : 7,
-        title: "seventh task",
-        description : "This is seventh task of the list",
+        id : 8,
+        title: "eighth task",
+        description : "This is eighth task of the list",
         is_completed : false
     },
     {
-        id : 7,
-        title: "seventh task",
-        description : "This is seventh task of the list",
+        id : 9,
+        title: "nineth task",
+        description : "This is nineth task of the list",
         is_completed : false
     },
 ]
