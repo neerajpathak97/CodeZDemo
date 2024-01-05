@@ -1,0 +1,32 @@
+					/********* Process to Run **********/
+
+
+
+1) First enter npm install command when it successfully installed then
+
+2) Run npm start --reset-cache
+
+3) Open another terminal run the command npx react-native run-android command
+
+Note*  Before runnig the 3 command you should run the emulator or connect to any physical devices
+
+							
+
+					/***********Task Completed ***********/
+
+
+
+1) Created three screen Home ,Profile and Settings. Integrated Stack , bottom and Drawer Navigation 
+
+2) Shown the list from the Raw data in Flatlist also added the toggle in that 
+
+3) Due to lack to time and office work couldnt able to integrate the State Mangement Library or todo list
+
+ 
+								
+
+
+
+
+
+					/---------Thank you---------/
